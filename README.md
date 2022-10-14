@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">Passionate programmer willing to learn and develop her skills</h3>
 
+- 🔭 I’m currently working on **a Ticketing application**
+
+- 🌱 I’m currently learning **AWS RE/Start**
+
+- 🤝 I’m looking for help with **Developing my skills as a programmer**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
