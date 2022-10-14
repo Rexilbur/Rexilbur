@@ -7,7 +7,6 @@
 
 - 🤝 I’m looking for help with **Developing my skills as a programmer**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
